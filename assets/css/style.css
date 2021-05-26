@@ -72,13 +72,13 @@
 
 .section-contact .form-control {
     /* border-color: var(--bs-dark); */
-    border: none;
+    /* border: none; */
 }
 
 .section-contact .form-control:focus {
     /* border-color: var(--bs-dark); */
-    border: none;
-    outline: none;
+    /* border: none; */
+    /* outline: none; */
     box-shadow: none;
 }
 
